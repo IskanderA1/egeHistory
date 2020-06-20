@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GeoQiuz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_1">В 1812 году Францию возглавлял Наполеон I, а Никола I же правил в России?</string>
+    <!--Нет, Александр I-->
+    <string name="question_2">По итогам Северной войны Пётр I принял титул Императора Всероссийского?</string>
+    <!--Да-->
+    <string name="question_3">В 1828 году произошло восстание декабристов?</string>
+    <!--Нет,1825-->
+    <string name="question_4">С 1721 по 1905 годы в стране была парламентская форма монархии:</string>
+    <!--Нет, Абсолютная-->
+    <string name="question_5">Первого русского царя из династии Романовых звали Алексей Михайлович</string>
+    <!--Нет, михаил федорович-->
+    <string name="question_6">В 1795 году завершился Третий раздел Речи Посполитой?</string>
+    <!--Да-->
+    <string name="question_7">В 1917 году Николай II отрёкся от престола:</string>
+    <!--Да-->
+    <string name="question_8">После окончания Северной войны, Россия обеспечила себе выход к Белому морю</string>
+    <!--Нет, Балтийскому-->
+    <string name="question_9">Порядок правления ПетрIII-ЕкатеринаII-ПавелI верный?</string>
+    <!--Да-->
+    <string name="question_10">АлександрIII погиб в результате теракта народовольцев</string>
+    <!--Нет, АлександрII-->
+    <string name="question_11">Россия завоевала выход к Чёрному морю в результате Русско-турецкой войны 1806
+        -1812</string>
+    <!--Нет, Русско-турецкой войны 1768-1774-->
+
+</resources>
